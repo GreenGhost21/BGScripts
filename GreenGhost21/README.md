@@ -8,3 +8,5 @@ Some songs have two or more (re)mixes that have *very* similar beware's scripts.
 Permissions will be found in each folder. 
 
 Do note that some videos use special, double-framerate videos (made by myself), for times when the rate needs to be above 200%. Said videos end in "x2" (referring to the doubled framerate), and will be available [here](https://drive.google.com/open?id=1uKVE5p5RtECdgjSZPn6iHbZUJrd7IM6V). Just put them in the RandomMovies folder.
+
+Finally, I am planning on phasing out Beware's versions of the BG Videos in favor of the newer ones extracted from Festival (Generously relayed to me by CuzcoBlocko from the ZiV forums), given proper names by yours truly. So if you find you're missing a video for a script, [check the Google Drive link here](https://github.com/GreenGhost21/DDRFestival-Videos-Named)
