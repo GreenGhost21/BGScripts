@@ -23,3 +23,6 @@ blockhlc5.png
 
 ##### .59
 - Removed a `tunnel2.avi` BGChange at `134.750`.
+
+##### TRIP MACHINE: CLIMAX
+- Replaced `tunnel14.avi` with the double speed, `x2` version. 
